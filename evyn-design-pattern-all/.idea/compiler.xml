@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="evyn-design-pattern-decorator" />
+        <module name="evyn-design-pattern-delegate" />
+        <module name="evyn-design-pattern-factory" />
+        <module name="evyn-design-pattern-observer" />
+        <module name="evyn-design-pattern-proxy" />
+        <module name="evyn-design-pattern-strategy" />
+        <module name="evyn-design-pattern-template" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="evyn-design-pattern-template" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
