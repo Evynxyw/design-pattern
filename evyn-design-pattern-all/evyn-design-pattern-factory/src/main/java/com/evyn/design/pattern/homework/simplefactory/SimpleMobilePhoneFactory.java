@@ -9,7 +9,7 @@ import com.evyn.design.pattern.homework.phone.MobilePhone;
  * @Date 2019/3/9 17:53
  * @Version 1.0
  */
-public class SimpleMobilePhoneFactory {
+public class SimpleMobilePhoneFactory{
 
     public MobilePhone generatePhone(Class clazz){
         try {
