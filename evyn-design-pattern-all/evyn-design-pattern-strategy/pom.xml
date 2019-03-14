@@ -11,11 +11,7 @@
 
     <artifactId>evyn-design-pattern-strategy</artifactId>
     <dependencies>
-        <dependency>
-            <groupId>com.sultan.utils</groupId>
-            <artifactId>stringutils</artifactId>
-            <version>1.0.0</version>
-        </dependency>
+
     </dependencies>
 
 </project>

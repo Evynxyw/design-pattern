@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.evyn.design.pattern.singleton.hungry.HungryStaticSingleton</OriginalElement>
+  <nodes>
+    <node x="0.0" y="146.0">com.evyn.design.pattern.singleton.hungry.HungrySingleton</node>
+    <node x="0.0" y="0.0">com.evyn.design.pattern.singleton.hungry.HungryStaticSingleton</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="146.5" y="50.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
