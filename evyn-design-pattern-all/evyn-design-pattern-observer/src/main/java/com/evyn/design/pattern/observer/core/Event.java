@@ -2,10 +2,7 @@ package com.evyn.design.pattern.observer.core;
 
 import java.lang.reflect.Method;
 
-/**
- * 事件
- * Created by Tom on 2018/3/17.
- */
+
 public class Event {
 
     //事件源

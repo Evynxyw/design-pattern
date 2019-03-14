@@ -6,9 +6,6 @@ import com.evyn.design.pattern.observer.core.Event;
 
 import java.lang.reflect.Method;
 
-/**
- * Created by Tom on 2018/3/17.
- */
 public class ObserverTest {
 
     public static void main(String[] args) {

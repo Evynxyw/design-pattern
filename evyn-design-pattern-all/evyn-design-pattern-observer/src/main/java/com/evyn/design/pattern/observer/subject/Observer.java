@@ -2,9 +2,7 @@ package com.evyn.design.pattern.observer.subject;
 
 import com.evyn.design.pattern.observer.core.Event;
 
-/**
- * Created by Tom on 2018/3/17.
- */
+
 public class Observer {
 
     public void advice(Event e){

@@ -3,9 +3,7 @@ package com.evyn.design.pattern.strategy;
 
 import com.evyn.design.pattern.strategy.payport.PayType;
 
-/**
- * Created by Tom on 2018/3/11.
- */
+
 public class PayStrategyTest {
 
     public static void main(String[] args) {

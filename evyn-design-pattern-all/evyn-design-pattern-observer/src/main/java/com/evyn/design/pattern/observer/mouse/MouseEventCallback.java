@@ -2,12 +2,7 @@ package com.evyn.design.pattern.observer.mouse;
 
 import com.evyn.design.pattern.observer.core.Event;
 
-/**
- * 观察者
- *
- * 回调响应的逻辑，由自己实现
- * Created by Tom on 2018/3/17.
- */
+
 public class MouseEventCallback {
 
     public void onClick(Event e){

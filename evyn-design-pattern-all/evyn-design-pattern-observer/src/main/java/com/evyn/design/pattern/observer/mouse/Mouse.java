@@ -2,11 +2,7 @@ package com.evyn.design.pattern.observer.mouse;
 
 import com.evyn.design.pattern.observer.core.EventLisenter;
 
-/**
- * 被观察者
- * 如果做过Swing开发的话，有一种似曾相识的感觉
- * Created by Tom on 2018/3/17.
- */
+
 public class Mouse extends EventLisenter {
 
     public void click(){

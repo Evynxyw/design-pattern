@@ -1,8 +1,6 @@
 package com.evyn.design.pattern.observer.mouse;
 
-/**
- * Created by Tom on 2018/3/17.
- */
+
 public enum MouseEventType {
     ON_CLICK,
     ON_DOUBLE_CLICK,

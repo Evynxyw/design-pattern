@@ -4,10 +4,7 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * 事件的注册和监听
- * Created by Tom on 2018/3/17.
- */
+
 public class EventLisenter {
 
     //Map相当于是一个注册器

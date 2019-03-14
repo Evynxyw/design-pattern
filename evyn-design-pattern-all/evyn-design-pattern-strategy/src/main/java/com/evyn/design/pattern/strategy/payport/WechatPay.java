@@ -3,9 +3,7 @@ package com.evyn.design.pattern.strategy.payport;
 
 import com.evyn.design.pattern.strategy.PayState;
 
-/**
- * Created by Tom on 2018/3/11.
- */
+
 public class WechatPay implements Payment {
 
     public PayState pay(String uid, double amount) {

@@ -16,6 +16,8 @@
         <module>evyn-design-pattern-decorator</module>
         <module>evyn-design-pattern-observer</module>
         <module>evyn-design-pattern-factory</module>
+        <module>evyn-design-pattern-singleton</module>
+        <module>evyn-design-pattern-prototype</module>
     </modules>
 
 

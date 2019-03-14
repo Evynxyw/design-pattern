@@ -3,9 +3,6 @@ package com.evyn.design.pattern.observer.subject;
 
 import com.evyn.design.pattern.observer.core.EventLisenter;
 
-/**
- * Created by Tom on 2018/3/17.
- */
 public class Subject extends EventLisenter {
 
     //通常的话，采用动态里来实现监控，避免了代码侵入
