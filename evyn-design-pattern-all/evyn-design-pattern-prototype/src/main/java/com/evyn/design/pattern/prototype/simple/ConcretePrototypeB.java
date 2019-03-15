@@ -1,8 +1,5 @@
 package com.evyn.design.pattern.prototype.simple;
 
-/**
- * Created by Tom.
- */
 public class ConcretePrototypeB implements Prototype {
 
     @Override

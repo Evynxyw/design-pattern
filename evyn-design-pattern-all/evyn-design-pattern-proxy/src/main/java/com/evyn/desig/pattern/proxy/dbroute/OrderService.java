@@ -8,4 +8,14 @@ package com.evyn.desig.pattern.proxy.dbroute;
  * @Version 1.0
  */
 public class OrderService {
+    private OrderDao orderDao;
+
+    public OrderService(){
+        orderDao = new OrderDao();
+    }
+
+    public int createOrder(Order order) {
+        System.out.println("OrderService调用orderDao创建订单");
+        return orderDao.insert(order);
+    }
 }

@@ -15,10 +15,10 @@ public class GPMeipo implements GPInvocationHandler {
 
     private Object target;
 
-    public Object getinstance(Object person){
+    public Object getInstance(Object person){
         this.target = person;
         Class<?> clazz = target.getClass();
-        return GPProxy.newProxyInstance(clazz.getClassLoader(), clazz.getInterfaces(), this);
+        return GPProxy.newProxyInstance(new GPClassLoader(), clazz.getInterfaces(), this);
     }
 
 

@@ -8,4 +8,5 @@ package com.evyn.desig.pattern.proxy.dbroute;
  * @Version 1.0
  */
 public interface IOrderService {
+    int createOrder(Order order);
 }
