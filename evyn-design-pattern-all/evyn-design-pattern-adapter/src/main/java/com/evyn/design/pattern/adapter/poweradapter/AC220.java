@@ -1,4 +1,4 @@
-package com.evyn.design.pattern.adapter;
+package com.evyn.design.pattern.adapter.poweradapter;
 
 /**
  * @ClassName AC220

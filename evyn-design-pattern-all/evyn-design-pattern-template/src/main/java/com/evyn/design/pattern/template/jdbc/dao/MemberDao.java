@@ -24,7 +24,7 @@ public class MemberDao extends JdbcTemplate {
     public List<?> selectAll(){
         String sql = "select * feom t_member";
         return super.executeQuery(sql, new RowMapper<Member>() {
-            @Override
+
             public Member mapRow(ResultSet rs, int rowNum) throws Exception {
                 Member member = new Member();
                 member.setUserName(rs.getString("username"));
