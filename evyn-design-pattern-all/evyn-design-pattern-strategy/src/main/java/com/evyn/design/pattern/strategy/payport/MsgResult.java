@@ -1,18 +1,11 @@
-package com.evyn.design.pattern.strategy;
+package com.evyn.design.pattern.strategy.payport;
 
-/**
- * @ClassName PayState
- * @Description:
- * @Author xyw
- * @Date 2019/1/20 11:26
- * @Version 1.0
- */
-public class PayState {
+public class MsgResult {
     private int code;
     private Object data;
     private String msg;
 
-    public PayState(int code, String msg,Object data) {
+    public MsgResult(int code, String msg, Object data) {
         this.code = code;
         this.data = data;
         this.msg = msg;

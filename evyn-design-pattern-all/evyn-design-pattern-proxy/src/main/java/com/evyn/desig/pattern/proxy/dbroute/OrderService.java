@@ -7,7 +7,7 @@ package com.evyn.desig.pattern.proxy.dbroute;
  * @Date 2019/3/10 21:11
  * @Version 1.0
  */
-public class OrderService {
+public class OrderService implements IOrderService{
     private OrderDao orderDao;
 
     public OrderService(){

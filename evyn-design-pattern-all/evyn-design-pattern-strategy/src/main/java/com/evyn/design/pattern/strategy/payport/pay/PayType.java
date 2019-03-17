@@ -1,4 +1,4 @@
-package com.evyn.design.pattern.strategy.payport;
+package com.evyn.design.pattern.strategy.payport.pay;
 
 public enum PayType {
     ALI_PAY(new AliPay()),

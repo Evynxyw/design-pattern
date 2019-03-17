@@ -18,6 +18,7 @@
         <module>evyn-design-pattern-factory</module>
         <module>evyn-design-pattern-singleton</module>
         <module>evyn-design-pattern-prototype</module>
+        <module>evyn-design-pattern-adapter</module>
     </modules>
 
 
