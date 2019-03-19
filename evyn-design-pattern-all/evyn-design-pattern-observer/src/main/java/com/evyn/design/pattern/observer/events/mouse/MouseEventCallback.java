@@ -1,6 +1,6 @@
-package com.evyn.design.pattern.observer.mouse;
+package com.evyn.design.pattern.observer.events.mouse;
 
-import com.evyn.design.pattern.observer.core.Event;
+import com.evyn.design.pattern.observer.events.core.Event;
 
 
 public class MouseEventCallback {

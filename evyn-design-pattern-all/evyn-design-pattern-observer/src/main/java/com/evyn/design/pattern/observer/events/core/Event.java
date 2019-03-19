@@ -1,4 +1,4 @@
-package com.evyn.design.pattern.observer.core;
+package com.evyn.design.pattern.observer.events.core;
 
 import java.lang.reflect.Method;
 

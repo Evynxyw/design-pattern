@@ -1,7 +1,7 @@
 package com.evyn.design.pattern.observer.subject;
 
 
-import com.evyn.design.pattern.observer.core.EventLisenter;
+import com.evyn.design.pattern.observer.events.core.EventLisenter;
 
 public class Subject extends EventLisenter {
 

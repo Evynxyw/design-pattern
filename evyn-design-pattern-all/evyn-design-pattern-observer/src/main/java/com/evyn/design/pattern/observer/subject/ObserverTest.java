@@ -2,7 +2,7 @@ package com.evyn.design.pattern.observer.subject;
 
 
 
-import com.evyn.design.pattern.observer.core.Event;
+import com.evyn.design.pattern.observer.events.core.Event;
 
 import java.lang.reflect.Method;
 
